@@ -1,6 +1,5 @@
 # Git Merge Conflicts
 <<<<<<< HEAD
-
 =======
 >>>>>>> marty-mcfly
 
